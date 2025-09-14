@@ -1,10 +1,12 @@
 Project Title/Headline
+
 Blinkit Grocery E-commerce Performance Dashboard
 Short Description
 A comprehensive e-commerce analytics dashboard for India's leading quick commerce platform, analyzing $1.20M in total sales across 8,523 products. The dashboard provides strategic insights into product performance, outlet operations, customer ratings, and sales optimization across different categories, outlet types, and geographic locations.
 Tech Stack
 
 Primary Platform: Microsoft Power BI Desktop
+
 Data Processing: Power Query for data transformation and cleansing
 Data Storage: Excel/CSV data integration
 Database Operations: SQL for data extraction and filtering
@@ -32,6 +34,7 @@ Geographic Analytics: Location-based sales distribution and performance
 Category Insights: Item type analysis across grocery segments
 
 Key Highlights
+
 💰 $1.20M Total Sales Revenue with $141 average transaction value
 📦 8,523 Product Portfolio across diverse grocery categories
 ⭐ 3.9 Average Customer Rating indicating strong satisfaction levels
